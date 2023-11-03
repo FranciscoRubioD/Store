@@ -1,0 +1,22 @@
+{
+  "name": "store",
+  "version": "1.0.0",
+  "description": "store en nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FranciscoRubioD/Store.git"
+  },
+  "author": "FranciscoRubio",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FranciscoRubioD/Store/issues"
+  },
+  "homepage": "https://github.com/FranciscoRubioD/Store#readme",
+  "dependencies": {
+    "colors": "^1.4.0"
+  }
+}
